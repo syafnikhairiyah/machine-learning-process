@@ -1,4 +1,6 @@
 # machine-learning-process
+video presentasi dapat diakses di https://youtu.be/2o9CMrLFXA8
+
 milk classification processing
 
 
